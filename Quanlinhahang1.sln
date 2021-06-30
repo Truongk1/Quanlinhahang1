@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quanlinhahang1", "Quanlinhahang1\Quanlinhahang1.csproj", "{7A666195-094C-4A51-BDA9-666D4353A55C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quanlinhahang1.Tests", "Quanlinhahang1.Tests\Quanlinhahang1.Tests.csproj", "{FBEB1A08-70F4-4260-B819-B71D923330F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A666195-094C-4A51-BDA9-666D4353A55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A666195-094C-4A51-BDA9-666D4353A55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A666195-094C-4A51-BDA9-666D4353A55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A666195-094C-4A51-BDA9-666D4353A55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEB1A08-70F4-4260-B819-B71D923330F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEB1A08-70F4-4260-B819-B71D923330F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEB1A08-70F4-4260-B819-B71D923330F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEB1A08-70F4-4260-B819-B71D923330F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A19213-F8FB-4A84-BD16-107097B79B78}
+	EndGlobalSection
+EndGlobal
